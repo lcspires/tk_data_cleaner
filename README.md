@@ -95,28 +95,7 @@ After cleaning (minimum 4 chars, duplicates removed, spaces trimmed):
 
 ---
 
-## Contributing
+## Screenshot
 
-Contributions are welcome! You can:
-
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-Please follow standard GitHub workflow with feature branches.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or collaboration:
-
-- GitHub: [lcspires](https://github.com/lcspires)
-- Email: [ferreira.l@ufba.br](mailto\:ferreira.l@ufba.br)
+![App Screenshot](screenshot.png)
 
